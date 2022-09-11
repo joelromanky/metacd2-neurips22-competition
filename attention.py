@@ -3,6 +3,8 @@ import torch
 import torch.nn.functional as F
 import math
 
+# Spatial Contrastive loss for Few-shot classification
+# https://github.com/yassouali/SCL
 
 def projector(dim, projection_size):
     """
