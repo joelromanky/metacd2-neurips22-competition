@@ -16,6 +16,8 @@ This solution is mainly based on the MetaDelta++ [1]solution to the NeurIPS 2021
 
 The aforementioned approaches are highly based on the works of Ouali et al. [2] and inspired from those of Islam et al. [3]. You can check the [Github repository](https://github.com/yassouali/SCL) for further details.
 
+![architecture](meta_cd_architecture.png)
+
 ## Requirements
 
 Please follow the [official website](https://github.com/DustinCarrion/cd-metadl/tree/8c6128120ab8aac331c958b2965d42747d9dbdeb) to set-up environments.  
